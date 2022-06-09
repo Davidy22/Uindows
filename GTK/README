@@ -1,0 +1,3 @@
+To install, copy gtk.css file into ~/.config/gtk-4.0
+
+Users on gnome shell 42 may experience some theming inconsistencies.
